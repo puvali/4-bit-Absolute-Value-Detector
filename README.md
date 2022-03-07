@@ -1,4 +1,4 @@
-# 1.4GHz 0.12pJ 4-bit Absolute-Value Detector for use in Neural Spike Sorting
+## 1.4GHz 0.12pJ 4-bit Absolute-Value Detector for use in Neural Spike Sorting
 
 - Final project for ECE 115C - Digital Electronic Circuits taken at UCLA in Spring 2021 with Professor Dejan Markovic 
 - Mixed design with PTL and static CMOS
